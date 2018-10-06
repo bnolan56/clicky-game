@@ -1,0 +1,8 @@
+.img-fluid {
+    /* width: 100%; */
+    height: auto;
+}
+.header {
+    background: #218ffe;
+    margin-bottom: 5%;
+}
