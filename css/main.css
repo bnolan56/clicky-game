@@ -1,0 +1,19 @@
+a {
+  color: #fff;
+}
+
+body {
+  overflow-x: hidden;
+  color: #fff;
+  background-image: url('../images/bg.jpg');
+}
+
+.score {
+  margin-top 5%;
+  text-align: center;
+}
+.highscore {
+  margin-top: 1%;
+  text-align: center;
+  /* font-weight: bold; */
+}
