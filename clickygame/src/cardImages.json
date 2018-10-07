@@ -9,7 +9,7 @@
         "id":"img-winston",
         "name": "Winston",
         "beenClicked": false,
-        "path": "/clicky-game/images/cards/winston.jpg"
+        "path": "/clicky-game/images/cards/winston.png"
     },
     {
         "id":"img-tracer",
