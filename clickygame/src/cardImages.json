@@ -3,72 +3,72 @@
         "id":"img-soldier76",
         "name": "Soldier: 76",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/soldier76.png"
+        "path": "/clicky-game/images/cards/soldier76.png"
     },
     {
         "id":"img-winston",
         "name": "Winston",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/winston.jpg"
+        "path": "/clicky-game/images/cards/winston.jpg"
     },
     {
         "id":"img-tracer",
         "name": "Tracer",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/tracer.png"
+        "path": "/clicky-game/images/cards/tracer.png"
     },
     {
         "id":"img-bigdaddyjeff",
         "name": "Big Daddy Jeff",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/jeff.png"
+        "path": "/clicky-game/images/cards/jeff.png"
     },
     {
         "id":"img-ana",
         "name": "Captain Ana Amari",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/ana.png"
+        "path": "/clicky-game/images/cards/ana.png"
     },
     {
         "id":"img-hanzo",
         "name": "Hanzo",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/hanzo.png"
+        "path": "/clicky-game/images/cards/hanzo.png"
     },
     {
         "id":"img-junk",
         "name": "Junkrat",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/junkrat.png"
+        "path": "/clicky-game/images/cards/junkrat.png"
     },
     {
         "id":"img-lucio",
         "name": "Lúcio",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/lucio.png"
+        "path": "/clicky-game/images/cards/lucio.png"
     },
     {
         "id":"img-mcree",
         "name": "McCree",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/mccree.png"
+        "path": "/clicky-game/images/cards/mccree.png"
     },
     {
         "id":"img-rein",
         "name": "Reinhardt",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/reinhardt.png"
+        "path": "/clicky-game/images/cards/reinhardt.png"
     },
     {
         "id":"img-widow",
         "name": "Widowmaker",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/widowmaker.png"
+        "path": "/clicky-game/images/cards/widowmaker.png"
     },
     {
         "id": "img-zen",
         "name": "Zenyatta",
         "beenClicked": false,
-        "path": "/gh-pages/images/cards/zenyatta.png"
+        "path": "/clicky-game/images/cards/zenyatta.png"
     }
 ]
