@@ -3,72 +3,72 @@
         "id":"img-soldier76",
         "name": "Soldier: 76",
         "beenClicked": false,
-        "path": "/images/cards/soldier76.png"
+        "path": "/gh-pages/images/cards/soldier76.png"
     },
     {
         "id":"img-winston",
         "name": "Winston",
         "beenClicked": false,
-        "path": "/images/cards/winston.jpg"
+        "path": "/gh-pages/images/cards/winston.jpg"
     },
     {
         "id":"img-tracer",
         "name": "Tracer",
         "beenClicked": false,
-        "path": "/images/cards/tracer.png"
+        "path": "/gh-pages/images/cards/tracer.png"
     },
     {
         "id":"img-bigdaddyjeff",
         "name": "Big Daddy Jeff",
         "beenClicked": false,
-        "path": "/images/cards/jeff.png"
+        "path": "/gh-pages/images/cards/jeff.png"
     },
     {
         "id":"img-ana",
         "name": "Captain Ana Amari",
         "beenClicked": false,
-        "path": "/images/cards/ana.png"
+        "path": "/gh-pages/images/cards/ana.png"
     },
     {
         "id":"img-hanzo",
         "name": "Hanzo",
         "beenClicked": false,
-        "path": "/images/cards/hanzo.png"
+        "path": "/gh-pages/images/cards/hanzo.png"
     },
     {
         "id":"img-junk",
         "name": "Junkrat",
         "beenClicked": false,
-        "path": "/images/cards/junkrat.png"
+        "path": "/gh-pages/images/cards/junkrat.png"
     },
     {
         "id":"img-lucio",
         "name": "Lúcio",
         "beenClicked": false,
-        "path": "/images/cards/lucio.png"
+        "path": "/gh-pages/images/cards/lucio.png"
     },
     {
         "id":"img-mcree",
         "name": "McCree",
         "beenClicked": false,
-        "path": "/images/cards/mccree.png"
+        "path": "/gh-pages/images/cards/mccree.png"
     },
     {
         "id":"img-rein",
         "name": "Reinhardt",
         "beenClicked": false,
-        "path": "/images/cards/reinhardt.png"
+        "path": "/gh-pages/images/cards/reinhardt.png"
     },
     {
         "id":"img-widow",
         "name": "Widowmaker",
         "beenClicked": false,
-        "path": "/images/cards/widowmaker.png"
+        "path": "/gh-pages/images/cards/widowmaker.png"
     },
     {
         "id": "img-zen",
         "name": "Zenyatta",
         "beenClicked": false,
-        "path": "/images/cards/zenyatta.png"
+        "path": "/gh-pages/images/cards/zenyatta.png"
     }
 ]
